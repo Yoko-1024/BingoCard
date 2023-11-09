@@ -1,0 +1,46 @@
+body{
+    text-align: center;
+}
+
+p{
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+table{
+    margin: 10px auto;
+}
+
+td{
+    width: 60px;
+    height: 60px;
+    font-size: 40px;
+    color: white;
+    background-color: blue;
+}
+
+th{
+    width: 60px;
+    height: 60px;
+    font-size: 40px;
+    text-align: center;
+    border: 2px double black;
+    color: red;
+    background-color: aqua;
+}
+
+.changebutton{
+    width: 60px;
+    height: 60px;
+    color: blue;
+    font-size: 40px;
+    text-align: center;
+    border-radius: 50%;
+    border-color: blue;
+    background-color: yellow;
+}
+.changebutton.hanten{
+    color: white;
+    border-color: blue;
+    background-color: blue;
+}
